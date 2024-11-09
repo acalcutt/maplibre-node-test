@@ -2,7 +2,7 @@
  * Maplibre-gl-native Example
  */
 let sharp = require('sharp');
-let mlgl = require('@maplibre/maplibre-gl-native');
+let mlgl = require('@acalcutt/maplibre-gl-native-test');
 let request = require('request');
 
 
