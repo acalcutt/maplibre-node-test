@@ -8,7 +8,7 @@
   },
   "eslintConfig": {},
   "dependencies": {
-    "@acalcutt/maplibre-gl-native-test": "6.1.1-pre.3",
+    "@acalcutt/maplibre-gl-native-test": "6.1.1-pre.5",
     "eslint": "^8.35.0",
     "request": "^2.88.2",
     "sharp": "0.33.5"
